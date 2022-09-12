@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### git commands:
 
-To Add files to git
+## To Add files to git
 '''
 git add .
 '''
@@ -50,7 +50,6 @@ To send version/changes to github
 '''
 git push origin main
 '''
-
 To check remote url
 '''
 git remote -v
