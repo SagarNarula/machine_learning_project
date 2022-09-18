@@ -3,4 +3,4 @@ gunicorn
 pandas
 numpy
 sklearn
--e .     #### For this setup .py is required.
+-e .

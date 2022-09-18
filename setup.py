@@ -3,7 +3,7 @@ from typing import List
 
 #Declaring variables for setup functions
 PROJECT_NAME="housing-predictor"
-VERSION="0.0.2"
+VERSION="0.0.3"
 AUTHOR="SAGAR NARULA"
 REQUIREMENT_FILE_NAME="requirements.txt"
 
