@@ -54,3 +54,8 @@ To check remote url
 '''
 git remote -v
 '''
+### Install ipykernel:
+''' 
+pip install ipykernel
+
+'''
