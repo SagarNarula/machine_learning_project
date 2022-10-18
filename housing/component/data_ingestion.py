@@ -1,4 +1,3 @@
-from tkinter import E, N
 from housing.entity.config_entity import DataIngestionConfig
 from housing.logger import logging
 from housing.exception import HousingException

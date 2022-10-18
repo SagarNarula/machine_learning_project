@@ -4,4 +4,6 @@ pandas
 numpy
 sklearn
 PyYAML
+evidently
+dill
 -e .
